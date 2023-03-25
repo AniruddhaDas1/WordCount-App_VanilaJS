@@ -1,9 +1,13 @@
 body{
+    color: #ffffff;
     display: flex;
     align-items: center;
     justify-items: center;
     flex-direction: column;
     background:#dfecec;
+    background-image: url("/pexels-pixabay-41951.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 .wcount,
 .para{
@@ -20,4 +24,8 @@ body{
 .wordCount{
     margin-top: 5px;
     margin-bottom: 15px;
+}
+.footer{
+    margin-top: .5rem;
+    color: #ffffff;
 }
