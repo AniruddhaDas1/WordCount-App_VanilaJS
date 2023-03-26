@@ -1,10 +1,10 @@
-# Project - Autocomplete Search
+# Project - Word Count App
 
 ![Project-Image](/assets/proj-img.jpg)
 
 ## Project Details :
 
-_Whenever a user wants to store something in the clipboard, he enters in the textbox and on clicking on submit button, it will save in the clipboard._
+_Build a word count app which only calculates the number of characters given by the user._
 
 - Project Live Link : [https://word-count-app-vanilla-js.vercel.app/](https://word-count-app-vanilla-js.vercel.app/)
 
